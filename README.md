@@ -1,1 +1,2 @@
-# git-practice-week03
+## Inflation Forecasting
+This repository contains a simple inflation forecasting model.
